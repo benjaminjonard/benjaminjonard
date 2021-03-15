@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- :fr: :gb:
 - :elephant: PHP, :notes: Symfony, :whale: Docker, :mag_right: Elasticsearch
 - Maintener of https://github.com/koillection/koillection
 
