@@ -2,4 +2,4 @@
 
 - 🇫🇷 🇬🇧
 - 🐘 PHP, 🎶 Symfony, 🕷️ API Platform, 🐳 Docker, 🔍 Elasticsearch
-- Maintener of [Koillection](https://github.com/koillection/koillection)
+- Creator and maintener of [Koillection](https://github.com/koillection/koillection)
