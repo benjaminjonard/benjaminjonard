@@ -3,6 +3,10 @@
 - 🇫🇷 🇬🇧
 - 🐘 PHP, 🎶 Symfony, 🕷️ API Platform, 🐳 Docker, 🔍 Elasticsearch
 
+
+![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
+
 #### :seedling: My projects
 - [Koillection](https://github.com/benjaminjonard/koillection) Self-hosted service for managing any kind of collections. 
 - [Mendako](https://github.com/benjaminjonard/mendako) Self-hosted image board. 
