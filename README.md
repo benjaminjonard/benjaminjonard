@@ -4,7 +4,7 @@
 - 🐘 PHP, 🎶 Symfony, 🕷️ API Platform, 🐳 Docker, 🔍 Elasticsearch
 
 
-![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CACHYOS-48B9C7?style=for-the-badge&logo=CachyOS&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 
 #### :seedling: My projects
